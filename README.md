@@ -40,12 +40,12 @@ Analyze 12 months of Divvy/Cyclistic bike-share data to understand how **casual 
 ---
 
 ## 📦 Repository Structure
-
+```
 📁 cyclistic-2022-analysis/ 
 ├── cyclistic_analysis.ipynb 
 ├── README.md # This file 
 └── data/ # 12-month CSVs 
----
+```
 
 ## 📌 Conclusion
 
